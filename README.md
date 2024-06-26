@@ -39,7 +39,7 @@ El proyecto incluye los siguientes componentes:
 ## Visualizaciones obtenidas
 
 - **Películas vs series**: Para determinar cuantas películas y series hay en el dataset.
-![CantPeliculaSerie](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/assets/173504446/22ab995e-4317-4663-abd0-25473baa5df1)
+![CantPeliculaSerie](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/blob/main/Netflix/CantPeliculaSerie.jpg)
 
 - **Top Categorías**: Para determinar las categorías más repetidas.
 ![top_categorías](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/assets/173504446/c5ecd975-d997-4dc0-a622-c844d4cfb181)
