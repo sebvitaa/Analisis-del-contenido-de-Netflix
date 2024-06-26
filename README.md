@@ -73,4 +73,5 @@ El proyecto utiliza una variedad de herramientas y tecnologías, incluyendo:
 
 ## Conclusión
 
-Este proyecto proporciona una visión detallada sobre las tendencias de producción y consumo de películas en Netflix desde 2008 hasta 2021. A través del análisis y la visualización de datos, se puede entender mejor qué tipo de contenido domina la plataforma y cómo esto puede
+Este proyecto proporciona una visión detallada sobre las tendencias de producción y consumo de películas en Netflix desde 2008 hasta 2021. A través del análisis y la visualización de datos, se puede entender mejor qué tipo de contenido domina la plataforma y cómo esto puede ayudar a los productores y directores a elegir que tipo de contenido producir.
+
