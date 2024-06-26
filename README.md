@@ -38,8 +38,6 @@ El proyecto incluye los siguientes componentes:
 
 ## Visualizaciones obtenidas
 
-El proyecto utiliza una variedad de herramientas y tecnologías, incluyendo:
-
 - **Películas vs series**: Para determinar cuantas películas y series hay en el dataset.
 ![CantPeliculaSerie](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/assets/173504446/22ab995e-4317-4663-abd0-25473baa5df1)
 
@@ -65,6 +63,8 @@ El proyecto utiliza una variedad de herramientas y tecnologías, incluyendo:
 ![hm_genre_per_year](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/assets/173504446/a2d7327d-05cd-47a3-a706-ecad48f7b266)
 
 ## Herramientas y Tecnologías
+
+El proyecto utiliza una variedad de herramientas y tecnologías, incluyendo:
 
 - **Python**: Para la manipulación y análisis de datos.
 - **Pandas**: Para la limpieza y análisis de datos.
