@@ -17,7 +17,7 @@ Cuyo link de descarga es: https://www.kaggle.com/datasets/rahulvyasm/netflix-mov
 
 ## Resumen
 
-Este proyecto se desarrolla en el marco del curso **Taller de Visualización de la Información**. Su objetivo es realizar un análisis exhaustivo de las películas que han sido subidas a la plataforma de streaming Netflix desde el año 2008 hasta el 2021.
+Este proyecto se desarrolla en el marco del curso **Taller de Visualización de la Información**. Su objetivo es realizar un análisis exhaustivo de las películas que han sido subidas a la plataforma de streaming Netflix desde el año 2008 hasta el 2021. Para presentar los datos que surjan del análisis, es esencial utilizar las técnicas de visualización de la información aprendidas en el curso. Estas técnicas, no solo nos permitirán presentar los datos de forma clara, sino que facilitarán la identificación de tendencias y patrones dentro del conjunto de datos analizado.
 
 ## Objetivo del Proyecto
 
