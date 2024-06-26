@@ -77,6 +77,7 @@ Además, se utilizaron las siguientes fuentes como referencia para hacer los gr�
 - 	[Clase10.ipynb](https://github.com/daniopitz/visualizacion/blob/main/clases_practicas/clase10.ipynb) (Daniela Opitz, Profesora del ramo)
 -  [Netflix Movies and TV Shows - EDA](https://www.kaggle.com/code/lp2595/netflix-movies-and-tv-shows-eda) (visualizaciones del dataset en Kaggle)
 
+Por último, si bien el dataset está incluido en la [carpeta Netflix]() de este repositorio, puede acceder al dataset completo [aquí](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows/)
 ## Conclusión
 
 Este proyecto proporciona una visión detallada sobre las tendencias de producción y consumo de películas en Netflix desde 2008 hasta 2021. A través del análisis y la visualización de datos, se puede entender mejor qué tipo de contenido domina la plataforma y cómo esto puede ayudar a los productores y directores a elegir que tipo de contenido producir.
