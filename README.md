@@ -1,6 +1,6 @@
 Requerimientos ✅❌
   * ✅Un resumen del proyecto.
-  * ❌Las cinco o más visualizaciones (al menos tres de alta complejidad y dos de baja complejidad) con una breve explicación de cada una.
+  * ✅Las cinco o más visualizaciones (al menos tres de alta complejidad y dos de baja complejidad) con una breve explicación de cada una.
   * ✅Créditos a todos los integrantes del grupo.
   * ✅Todos los datos utilizados para el proyecto (puedes incluirlos directamente proporcionar enlaces a los datos si son muy grandes).
   * ❌Enlaces a todos los códigos que se usaron como base del proyecto, dandolos créditos correspondientes
