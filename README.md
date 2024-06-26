@@ -72,10 +72,10 @@ El proyecto utiliza una variedad de herramientas y tecnologías, incluyendo:
 - **Jupyter Notebooks**: Para documentar el proceso de análisis y las visualizaciones.
 
 Además, se utilizaron las siguientes fuentes como referencia para hacer los gráficos:
-- 	[Clase07.ipynb](https://github.com/daniopitz/visualizacion/blob/main/clases_practicas/clase07.ipynb) (Daniela Opitz, Profesora)
-- 	[Clase08_actividades.ipynb](https://github.com/daniopitz/visualizacion/blob/main/clases_practicas/clase08_actividades.ipynb) (Daniela Opitz, Profesora)
-- 	[Clase10.ipynb](https://github.com/daniopitz/visualizacion/blob/main/clases_practicas/clase10.ipynb) (Daniela Opitz, Profesora)
--  [Netflix Movies and TV Shows - EDA](https://www.kaggle.com/code/lp2595/netflix-movies-and-tv-shows-eda)
+- 	[Clase07.ipynb](https://github.com/daniopitz/visualizacion/blob/main/clases_practicas/clase07.ipynb) (Daniela Opitz, Profesora del ramo)
+- 	[Clase08_actividades.ipynb](https://github.com/daniopitz/visualizacion/blob/main/clases_practicas/clase08_actividades.ipynb) (Daniela Opitz, Profesora del ramo)
+- 	[Clase10.ipynb](https://github.com/daniopitz/visualizacion/blob/main/clases_practicas/clase10.ipynb) (Daniela Opitz, Profesora del ramo)
+-  [Netflix Movies and TV Shows - EDA](https://www.kaggle.com/code/lp2595/netflix-movies-and-tv-shows-eda) (visualizaciones del dataset en Kaggle)
 
 ## Conclusión
 
