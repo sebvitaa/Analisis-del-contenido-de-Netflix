@@ -71,6 +71,11 @@ El proyecto utiliza una variedad de herramientas y tecnologías, incluyendo:
 - **Matplotlib y Seaborn**: Para la creación de visualizaciones estáticas.
 - **Jupyter Notebooks**: Para documentar el proceso de análisis y las visualizaciones.
 
+Además, se utilizaron las siguientes fuentes como referencia para hacer los gráficos:
+- 	[Clase07.ipynb](https://github.com/daniopitz/visualizacion/blob/main/clases_practicas/clase07.ipynb) (Daniela Opitz, Profesora)
+- 	[Clase08_actividades.ipynb](https://github.com/daniopitz/visualizacion/blob/main/clases_practicas/clase08_actividades.ipynb) (Daniela Opitz, Profesora)
+- 	[Clase10.ipynb](https://github.com/daniopitz/visualizacion/blob/main/clases_practicas/clase10.ipynb) (Daniela Opitz, Profesora)
+
 ## Conclusión
 
 Este proyecto proporciona una visión detallada sobre las tendencias de producción y consumo de películas en Netflix desde 2008 hasta 2021. A través del análisis y la visualización de datos, se puede entender mejor qué tipo de contenido domina la plataforma y cómo esto puede ayudar a los productores y directores a elegir que tipo de contenido producir.
