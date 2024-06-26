@@ -36,7 +36,7 @@ El proyecto incluye los siguientes componentes:
 - **Visualización de Resultados**: Creación de gráficos y visualizaciones para presentar los hallazgos de manera clara y comprensible.
 - **Conclusiones**: Interpretación de los resultados obtenidos y discusión sobre las implicaciones del análisis tanto para la producción como para el consumo de material audiovisual en Netflix.
 
-## Herramientas y Tecnologías
+## Visualizaciones obtenidas
 
 El proyecto utiliza una variedad de herramientas y tecnologías, incluyendo:
 
@@ -64,7 +64,7 @@ El proyecto utiliza una variedad de herramientas y tecnologías, incluyendo:
 - **Películas por año**: Mapa de calor acerca de las películas y su categoría por año
 ![hm_genre_per_year](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/assets/173504446/a2d7327d-05cd-47a3-a706-ecad48f7b266)
 
-## Visualizaciones obtenidas
+## Herramientas y Tecnologías
 
 - **Python**: Para la manipulación y análisis de datos.
 - **Pandas**: Para la limpieza y análisis de datos.
