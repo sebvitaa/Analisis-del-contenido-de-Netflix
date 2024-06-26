@@ -42,25 +42,25 @@ El proyecto incluye los siguientes componentes:
 ![CantPeliculaSerie](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/blob/main/Netflix/CantPeliculaSerie.jpg)
 
 - **Top Categorías**: Para determinar las categorías más repetidas.
-![top_categorías](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/assets/173504446/c5ecd975-d997-4dc0-a622-c844d4cfb181)
+![top_categorías](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/blob/main/Netflix/top_categor%C3%ADas.jpg)
 
 - **Top Países**: Para determinar los países más repetidos.
-![top_paises](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/assets/173504446/8227383f-e026-4193-a681-2f5c57810fd4)
+![top_paises](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/blob/main/Netflix/top_paises.jpg)
 
 - **Top Países Storyline**: Para determinar los países más repetidos como evolución del tiempo.
-![top_paises_storyline](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/assets/173504446/05216bc7-11f6-4a66-986c-3dc48d008d07)
-![top_paises_acumulado_storyline](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/assets/173504446/2d6b1d18-41d0-441d-9513-8a6ca2cd01cb)
+![top_paises_storyline](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/blob/main/Netflix/top_paises_storyline.jpg)
+![top_paises_acumulado_storyline](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/blob/main/Netflix/top_paises_acumulado_storyline.jpg)
 
 - **Proveniencia top 3**: Para determinar de donde vienen las películas de las categorías más vistas.
-![Proveniencia_peliculas_drama](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/assets/173504446/0aae5733-5080-496f-a9ea-a6a390d8f94d)
-![Proveniencia_peliculas_internacionales](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/assets/173504446/9003269c-30ae-40fa-958e-638aa4dfa0a0)
-![Proveniencia_peliculas_comedia](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/assets/173504446/78755db2-861a-49f9-bfb7-5146b9032581)
+![Proveniencia_peliculas_drama](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/blob/main/Netflix/Proveniencia_peliculas_drama.jpg)
+![Proveniencia_peliculas_internacionales](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/blob/main/Netflix/Proveniencia_peliculas_internacionales.jpg)
+![Proveniencia_peliculas_comedia](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/blob/main/Netflix/Proveniencia_peliculas_comedia.jpg)
 
 - **Entropía**: Para determinar la variación de las categorías en función del tiempo.
-![Entropia](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/assets/173504446/a1ceb77a-ab40-4225-817d-3f504d5a018a)
+![Entropia](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/blob/main/Netflix/Entropia.jpg)
 
 - **Películas por año**: Mapa de calor acerca de las películas y su categoría por año
-![hm_genre_per_year](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/assets/173504446/a2d7327d-05cd-47a3-a706-ecad48f7b266)
+![hm_genre_per_year](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/blob/main/Netflix/hm_genre_per_year.jpg)
 
 ## Herramientas y Tecnologías
 
