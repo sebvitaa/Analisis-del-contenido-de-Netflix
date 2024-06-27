@@ -37,7 +37,7 @@ El proyecto incluye los siguientes componentes:
 ![top_paises](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/blob/main/Netflix/top_paises.jpg)
 
 - **Top Países Storyline**: Para determinar los países más repetidos como evolución del tiempo.
-![top_paises_storyline](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/blob/main/Netflix/top_paises_storyline.jpg)
+![top_paises_storyline]()
 ![top_paises_acumulado_storyline](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/blob/main/Netflix/top_paises_acumulado_storyline.jpg)
 
 - **Proveniencia top 3**: Para determinar de donde vienen las películas de las categorías más vistas.
