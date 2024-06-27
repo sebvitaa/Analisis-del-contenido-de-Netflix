@@ -60,6 +60,10 @@ El proyecto utiliza una variedad de herramientas y tecnologías, incluyendo:
 - **Películas por año**: Mapa de calor acerca de las películas y su categoría por año
 ![hm_genre_per_year](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/blob/main/Netflix/hm_genre_per_year.jpg)
 
+## Conclusión
+
+Este proyecto proporciona una visión detallada sobre las tendencias de producción y consumo de películas en Netflix desde 2008 hasta 2021. A través del análisis y la visualización de datos, se puede entender mejor qué tipo de contenido domina la plataforma y cómo esto puede ayudar a los productores y directores a elegir que tipo de contenido producir.
+
 ## Referencias
 
 Los siguientes enlaces dirigen a los archivos de los cuales estan basados los códigos de este análisis
@@ -69,8 +73,3 @@ Los siguientes enlaces dirigen a los archivos de los cuales estan basados los c�
 -  [Netflix Movies and TV Shows - EDA](https://www.kaggle.com/code/lp2595/netflix-movies-and-tv-shows-eda) (visualizaciones del dataset en Kaggle)
 
 Por último, si bien el dataset está incluido en la carpeta "[Netflix](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/tree/main/Netflix)" de este repositorio, puede acceder al dataset completo [aquí](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows/)
-
-## Conclusión
-
-Este proyecto proporciona una visión detallada sobre las tendencias de producción y consumo de películas en Netflix desde 2008 hasta 2021. A través del análisis y la visualización de datos, se puede entender mejor qué tipo de contenido domina la plataforma y cómo esto puede ayudar a los productores y directores a elegir que tipo de contenido producir.
-
