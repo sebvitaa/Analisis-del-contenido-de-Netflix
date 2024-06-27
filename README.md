@@ -12,9 +12,9 @@ Se utilizó únicamente dataset llamado Netflix Movies and TV Shows - EDA
 
 El principal objetivo de este proyecto es identificar y analizar los tipos de películas que han sido más subidas a Netflix durante el período mencionado. A partir de este análisis, se busca:
 
-1. **Análisis Directo**: Determinar los géneros y tipos de películas más producidos y subidos a Netflix. Esto permite comprender las tendencias en la producción de contenido audiovisual en la plataforma.
+1. **Objetivo 1**: Identificar patrones y tendencias de producción de películas en diferentes zonas geográficas. 
 
-2. **Análisis Indirecto**: Inferir patrones de consumo de los usuarios de Netflix a través del análisis de la oferta de películas. Al identificar qué tipo de contenido se sube con mayor frecuencia, se pueden hacer suposiciones sobre las preferencias y hábitos de consumo de los usuarios.
+2. **Objetivo 2**: Analizar la evolución del catálogo y evaluar la diversidad en el contenido de Netflix.
 
 ## Contenidos del Proyecto
 
@@ -24,6 +24,15 @@ El proyecto incluye los siguientes componentes:
 - **Limpieza de Datos**: Procesamiento y depuración de los datos recolectados para asegurar su calidad y fiabilidad.
 - **Visualización de Resultados**: Creación de gráficos y visualizaciones para presentar los hallazgos de manera clara y comprensible.
 - **Conclusiones**: Interpretación de los resultados obtenidos y discusión sobre las implicaciones del análisis tanto para la producción como para el consumo de material audiovisual en Netflix.
+
+## Herramientas y Tecnologías
+
+El proyecto utiliza una variedad de herramientas y tecnologías, incluyendo:
+
+- **Python**: Para la manipulación y análisis de datos.
+- **Pandas**: Para la limpieza y análisis de datos.
+- **Matplotlib y Seaborn**: Para la creación de visualizaciones estáticas.
+- **Jupyter Notebooks**: Para documentar el proceso de análisis y las visualizaciones.
 
 ## Visualizaciones obtenidas
 
@@ -51,16 +60,9 @@ El proyecto incluye los siguientes componentes:
 - **Películas por año**: Mapa de calor acerca de las películas y su categoría por año
 ![hm_genre_per_year](https://github.com/sebvitaa/Analisis-del-contenido-de-Netflix/blob/main/Netflix/hm_genre_per_year.jpg)
 
-## Herramientas y Tecnologías
+## Referencias
 
-El proyecto utiliza una variedad de herramientas y tecnologías, incluyendo:
-
-- **Python**: Para la manipulación y análisis de datos.
-- **Pandas**: Para la limpieza y análisis de datos.
-- **Matplotlib y Seaborn**: Para la creación de visualizaciones estáticas.
-- **Jupyter Notebooks**: Para documentar el proceso de análisis y las visualizaciones.
-
-Además, se utilizaron las siguientes fuentes como referencia para hacer los gráficos:
+Los siguientes enlaces dirigen a los archivos de los cuales estan basados los códigos de este análisis
 - 	[Clase07.ipynb](https://github.com/daniopitz/visualizacion/blob/main/clases_practicas/clase07.ipynb) (Daniela Opitz, Profesora del ramo)
 - 	[Clase08_actividades.ipynb](https://github.com/daniopitz/visualizacion/blob/main/clases_practicas/clase08_actividades.ipynb) (Daniela Opitz, Profesora del ramo)
 - 	[Clase10.ipynb](https://github.com/daniopitz/visualizacion/blob/main/clases_practicas/clase10.ipynb) (Daniela Opitz, Profesora del ramo)
