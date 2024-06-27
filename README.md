@@ -66,7 +66,7 @@ Este proyecto proporciona una visión detallada sobre las tendencias de producci
 
 ## Referencias
 
-Los siguientes enlaces dirigen a los archivos de los cuales estan basados los códigos de este análisis
+Los siguientes enlaces dirigen a los archivos de los cuales están basados los códigos de este análisis:
 - 	[Clase07.ipynb](https://github.com/daniopitz/visualizacion/blob/main/clases_practicas/clase07.ipynb) (Daniela Opitz, Profesora del ramo)
 - 	[Clase08_actividades.ipynb](https://github.com/daniopitz/visualizacion/blob/main/clases_practicas/clase08_actividades.ipynb) (Daniela Opitz, Profesora del ramo)
 - 	[Clase10.ipynb](https://github.com/daniopitz/visualizacion/blob/main/clases_practicas/clase10.ipynb) (Daniela Opitz, Profesora del ramo)
